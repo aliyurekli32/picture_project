@@ -59,4 +59,4 @@ Step 4: we will add project gif to our project and README.md file.
 Notes
 We can add additional functionalities to your app.
 
-a☺ Happy Coding ✍
+☺ Happy Coding ✍
