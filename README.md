@@ -40,7 +40,7 @@ Expected Outcome
 To have a better understanding, you can check this sample app
 https://aliyurekli32.github.io/picture_project/
 
-![Project 004 Snapshot](./project04.png)
+![Project 004 Snapshot](./Animation.gif)
 
 ## Objective
 
