@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//aliyurekli32.github.io/picture_project/static/css/main.42e99c4f.css",
+    "main.js": "//aliyurekli32.github.io/picture_project/static/js/main.0e5a0105.js",
+    "static/js/787.cf07692a.chunk.js": "//aliyurekli32.github.io/picture_project/static/js/787.cf07692a.chunk.js",
+    "index.html": "//aliyurekli32.github.io/picture_project/index.html",
+    "main.42e99c4f.css.map": "//aliyurekli32.github.io/picture_project/static/css/main.42e99c4f.css.map",
+    "main.0e5a0105.js.map": "//aliyurekli32.github.io/picture_project/static/js/main.0e5a0105.js.map",
+    "787.cf07692a.chunk.js.map": "//aliyurekli32.github.io/picture_project/static/js/787.cf07692a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e99c4f.css",
+    "static/js/main.0e5a0105.js"
+  ]
+}
