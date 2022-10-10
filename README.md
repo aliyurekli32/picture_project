@@ -1,11 +1,18 @@
+# React-Project-001 : Image Gallery
 
-React-Project-001 : Image Gallery
-Description
+
+
+
+## Description
 Project aims to create an image gallery app.
 
-Problem Statement
-We are adding a new project to our portfolios. So I have started to work on the project.
-Project Skeleton
+## Problem Statement
+
+- We are adding a new project to our portfolios. So I have started to work on the project.
+
+## Project Skeleton 
+
+```
 001-Image Gellery Project(folder)
 |
 |----readme.md         
@@ -25,38 +32,57 @@ SOLUTION
 │    ├── index.js
 └── package.json
 Expected Outcome
+        
+```
+
+## Expected Outcome
+
+![Project 004 Snapshot](./project04.png)
+
+## Objective
+
+Build a responsive web page similar to [Project 004 Snapshot](./project04.png) 
+### At the end of the project, following topics are to be covered;
+
+- HTML 
+
+- CSS
 
 
-To have a better understanding, you can check this sample app
-https://aliyurekli32.github.io/picture_project/
+### At the end of the project, students will be able to;
 
-Objective
-Build an Image Gallery App using ReactJS.
+- improve coding skills within HTML & CSS & JS
 
-At the end of the project, following topics are to be covered;
-HTML
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-CSS
+## Steps to Solution
+  
+- Step 1: Download or clone project repo on Github 
 
-JS
+- Step 2: Create project folder for local public repo on your pc
 
-ReactJS
+- Step 3: Team Members Web Page
 
-At the end of the project, we will be able to;
-improve coding skills within HTML & CSS & JS & ReactJS.
+>Part-1 HTML Structure
 
-use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+	- Creat structure of the HTML5
+	- Give name of your project (title)
+	- Create the main structur of the HTML
 
-Steps to Solution
-Step 1: Create React App using npx create-react-app picture_project
+>>Part-2 CSS Structure
 
-Step 2: For images we will use data.js.
+    - You can apply all the technologies you learn. (Flexbox, Grid)
+	- Set a background and define font color
+	- Set container background color and margin
+	- Define others color-size-padding etc...
 
-Step 3: We will push application into our own public repo on Github
+### Images
+[Images Folder](./images/)
 
-Step 4: we will add project gif to our project and README.md file.
 
-Notes
-We can add additional functionalities to your app.
+## Notes
 
-☺ Happy Coding ✍
+- Pay attention to the direction of the texts in the picture.
+- **Your page should be responsive web.**
+
+<center> ⌛ Happy Coding  ✍ </center>
